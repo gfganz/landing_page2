@@ -77,10 +77,11 @@ button {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 52px;
+    gap: 50px;
     padding: 50px;
     margin: 50px;
     margin-top: 0px;
+    text-align: center;
 }
 .images {
     display: flex;
@@ -89,12 +90,9 @@ button {
     background-color: white;
     border: solid 1px blue;
     border-radius: 4px;
+    margin: 10px;
 }
- .caption {
-     display: flex;
-     text-align: center;
- }
-
+ 
  .bottom {
      background-color: #e5e7eb;
      margin-top: 50px;
